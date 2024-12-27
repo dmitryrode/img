@@ -1,3 +1,3 @@
 
-[!Caution]
+[!WARNING]
 Image repo
